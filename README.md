@@ -15,7 +15,7 @@ A collection of my discrete mathematics course assignments.
 
 ## 仓库组成
 
-* [Assignment 1-1](Assignment_1)
+* [Assignment 1](Assignment_1)
 命题逻辑联接词、真值表、主范式
 
 * [Assignment 2](Assignment_2)
